@@ -1,5 +1,5 @@
 # fanyi.cli
-A cli translator using Baidu translation API
+A CLI language translator using Baidu translation API
 
 ## installation
 Just Download `fanyi.cli.py` directly.
