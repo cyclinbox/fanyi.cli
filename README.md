@@ -1,3 +1,10 @@
+# 重要说明
+此目录仅作为项目备份，最新版本的代码和说明文档请移步[原始存储库](https://github.com/ANOMS-top/fanyi.cli)查看。
+2022年3月10日
+cyclinbox.
+
+----------------------------
+
 # fanyi.cli
 A CLI language translator using Baidu translation API
 
